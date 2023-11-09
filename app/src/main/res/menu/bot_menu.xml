@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bot_menu_home"
+          android:icon="@drawable/home_icon"
+          android:title="Home" >
+    </item>
+    <item android:id="@+id/bot_menu_calcu"
+          android:icon="@drawable/cal_icon"
+          android:title="Calculator" >
+
+    </item>
+
+    <item android:id="@+id/bot_menu_bmi"
+        android:icon="@drawable/bmi_icon"
+        android:title="BMI">
+
+    </item>
+    <item
+        android:id="@+id/bot_menu_money"
+        android:icon="@drawable/money_icon"
+        android:title="Money">
+    </item>
+    <item
+        android:id="@+id/bot_menu_profile"
+        android:icon="@drawable/baseline_face_24"
+        android:title="Profile">
+
+    </item>
+
+</menu>
